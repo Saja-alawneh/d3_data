@@ -1,0 +1,639 @@
+"quartlyLabelFreq": [
+
+	{
+		"year": 1,
+		"Q":1,
+		"label":"FindingCount", 
+		"value":5042,
+	},
+	{
+		"year": 1,
+		"Q":1,
+		"lable": "DrugCount",
+		"value":1914
+	},
+	{
+		"year": 1,
+		"Q":1,
+		"label": "ProcedureCount",
+		"value":3924
+	},
+	{
+		"year": 1,
+		"Q":1,
+		"label": "LabCount",
+		"value":663
+	},
+	{
+		"year": 1,
+		"Q":1,
+		"label": "OtherCount",
+		"value":10688
+	},
+	{
+		"year": 1,
+		"Q":1,
+		"label": "DisorderCount",
+		"value":3454
+	},
+	{
+		"year": 1,
+		"Q":2,
+		"label":"FindingCount",
+		"value":1616
+	},
+	{
+		"year": 1,
+		"Q":2,
+		"label":"DrugCount",
+		"value":932
+	},
+	{
+		"year": 1,
+		"Q":2,
+		"label": "ProcedureCount",
+		"value":895
+	},
+	{
+		"year": 1,
+		"Q":2,
+		"label": "LabCount",
+		"value":208
+	},
+	{
+		"year": 1,
+		"Q":2,
+		"label": "OtherCount",
+		"value":2705
+	},
+	{
+		"year": 1,
+		"Q":2,
+		"label": "DisorderCount",
+		"value":965
+	},
+	{
+		"year": 1,
+		"Q":3,
+		"label":"FindingCount",
+		"value":724
+	},
+	{
+		"year": 1,
+		"Q":3,
+		"label": "DrugCount",
+		"value":479
+	},
+	{
+		"year": 1,
+		"Q":3,
+		"label": "ProcedureCount",
+		"value":470
+	},
+	{
+		"year": 1,
+		"Q":3,
+		"label": "LabCount",
+		"value":109
+	},
+	{
+		"year": 1,
+		"Q":3,
+		"label": "OtherCount",
+		"value":1317
+	},
+	{
+		"year": 1,
+		"Q":3,
+		"label": "DisorderCount",
+		"value":477
+	},
+	{
+		"year": 1,
+		"Q":4,
+		"label":"FindingCount",
+		"value":394
+	},
+	{
+		"year": 1,
+		"Q":4,
+		"label":"DrugCount",
+		"value":158
+	},
+	{
+		"year": 1,
+		"Q":4,
+		"label": "ProcedureCount",
+		"value":239
+	},
+	{
+		"year": 1,
+		"Q":4,
+		"label": "LabCount",
+		"value":46
+	},
+	{
+		"year": 1,
+		"Q":4,
+		"label": "OtherCount",
+		"value":801
+	},
+	{
+		"year": 1,
+		"Q":4,
+		"label":"DisorderCount",
+		"value":245
+	},
+	{
+		"year": 2,
+		"Q":1,
+		"label":"FindingCount",
+		"value":261
+	},
+	{
+		"year": 2,
+		"Q":1,
+		"label":"DrugCount",
+		"value":45
+	},
+	{
+		"year": 2,
+		"Q":1,
+		"label": "ProcedureCount",
+		"value":198
+	},
+	{
+		"year": 2,
+		"Q":1,
+		"label": "LabCount",
+		"value":9
+	},
+	{
+		"year": 2,
+		"Q":1,
+		"label": "OtherCount",
+		"value":494
+	},
+	{
+		"year": 2,
+		"Q":1,
+		"label": "DisorderCount",
+		"value":131
+	},
+	{
+		"year": 2,
+		"Q":2,
+		"label":"FindingCount",
+		"value":87
+	},
+	{
+		"year": 2,
+		"Q":2,
+		"label": "DrugCount",
+		"value":36
+	},
+	{
+		"year": 2,
+		"Q":2,
+		"label": "ProcedureCount",
+		"value":48
+	},
+	{
+		"year": 2,
+		"Q1":2,
+		"label": "LabCount",
+		"value":4
+	},
+	{
+		"year": 2,
+		"Q":2,
+		"label": "OtherCount",
+		"value":233
+	},
+	{
+		"year": 2,
+		"Q":2,
+		"label":"DisorderCount",
+		"value":40
+	},
+	{
+		"year": 2,
+		"Q":3,
+		"label":"FindingCount",
+		"value":8
+	},
+	{
+		"year": 2,
+		"Q":3,
+		"label": "DrugCount",
+		"value":1
+	},
+	{
+		"year": 2,
+		"Q":3,
+		"label": "ProcedureCount",
+		"value":9
+	},
+	{
+		"year": 2,
+		"Q":3,
+		"label": "OtherCount",
+		"value":32
+	},
+	{
+		"year": 2,
+		"Q":3,
+		"label": "DisorderCount",
+		"value":3
+	},
+	{
+		"year": 2,
+		"Q":4,
+		"label":"FindingCount",
+		"value":5
+	},
+	{
+		"year": 2,
+		"Q":4,
+		"label": "DrugCount",
+		"value":2
+	},	
+	{
+		"year": 2,
+		"Q":4,
+		"label": "OtherCount",
+		"value":9
+	},
+	{
+		"year": 2,
+		"Q":4,
+		"label":"DisorderCount",
+		"value":1
+	},
+	{
+		"year": 3,
+		"Q":1,
+		"label":"FindingCount",
+		"value":14
+	},
+	{
+		"year": 3,
+		"Q":1,
+		"label": "ProcedureCount",
+		"value":9
+	},
+	{
+		"year": 3,
+		"Q":1,
+		"label": "OtherCount",
+		"value":21
+	},
+	{
+		"year": 3,
+		"Q":2,
+		"label":"FindingCount",
+		"value":10
+	},
+	{
+		"year": 3,
+		"Q":2,
+		"label": "DrugCount",
+		"value":1
+	},
+	{
+		"year": 3,
+		"Q":2,
+		"label":"ProcedureCount",
+		"value":5
+	},
+	{
+		"year": 3,
+		"Q":2,
+		"label":"OtherCount",
+		"value":9
+	},
+	{
+		"year": 3,
+		"Q":2,
+		"label": "DisorderCount",
+		"value":3
+	},
+	{
+		"year": 3,
+		"Q":3,
+		"label":"FindingCount",
+		"value":2
+	},
+	{
+		"year": 3,
+		"Q":3,
+		"label": "OtherCount",
+		"value":4
+	},
+	{
+		"year": 3,
+		"Q":4,
+		"label": "DrugCount",
+		"value":1
+	},
+	{
+		"year": 3,
+		"Q":4,
+		"label":"ProcedureCount",
+		"value":3
+	},
+	{
+		"year": 3,
+		"Q":4,
+		"label": "OtherCount",
+		"value":5
+	},
+	{
+		"year": 3,
+		"Q":4,
+		"label": "DisorderCount",
+		"value":4
+	},
+	{
+		"year": 4,
+		"Q":1,
+		"label": "FindingCount",
+		"value":24
+	},
+	{
+		"year": 4,
+		"Q":1,
+		"label": "ProcedureCount",
+		"value":3
+	},
+	{
+		"year": 4,
+		"Q":1,
+		"label": "OtherCount",
+		"value":19
+	},
+	{
+		"year": 4,
+		"Q":1,
+		"label": "DisorderCount",
+		"value":2
+	},
+	{
+		"year": 4,
+		"Q":2,
+		"label":"FindingCount",
+		"value":1
+	},
+	{
+		"year": 4,
+		"Q":2,
+		"label": "DrugCount",
+		"value":2
+	},
+	{
+		"year": 4,
+		"Q":2,
+		"label": "OtherCount",
+		"value":37
+	},
+	{
+		"year": 4,
+		"Q":2,
+		"label": "DisorderCount",
+		"value":2
+	},
+	{
+		"year": 4,
+		"Q":3,
+		"label":"FindingCount",
+		"value":32
+	},
+	{
+		"year": 4,
+		"Q":3,
+		"label": "DrugCount",
+		"value":8
+	},
+	{
+		"year": 4,
+		"Q":3,
+		"label":"ProcedureCount",
+		"value":17
+	},
+	{
+		"year": 4,
+		"Q":3,
+		"label": "LabCount",
+		"value":1
+	},
+	{
+		"year": 4,
+		"Q":3,
+		"label": "OtherCount",
+		"value":48
+	},
+	{
+		"year": 4,
+		"Q":3,
+		"label": "DisorderCount",
+		"value":17
+	},
+	{
+		"year": 4,
+		"Q":4,
+		"label":"FindingCount",
+		"value":11
+	},
+	{
+		"year": 4,
+		"Q":4,
+		"label": "DrugCount",
+		"value":2
+	},
+	{
+		"year": 4,
+		"Q":4,
+		"label": "ProcedureCount",
+		"value":1
+	},
+	{
+		"year": 4,
+		"Q":4,
+		"label": "OtherCount",
+		"value":38
+	},
+	{
+		"year": 4,
+		"Q":4,
+		"label": "DisorderCount",
+		"value":7
+	},
+	{
+		"year": 5,
+		"Q":1,
+		"label":"FindingCount",
+		"value":10
+	},
+	{
+		"year": 5,
+		"Q":1,
+		"label":"ProcedureCount",
+		"value":1
+	},
+	{
+		"year": 5,
+		"Q":1,
+		"label":"OtherCount",
+		"value":12
+	},
+ 	{
+		"year": 5,
+		"Q":2,
+		"label": "FindingCount",
+		"value":1
+	},
+	{
+		"year": 5,
+		"Q":2,
+		"label": "DrugCount",
+		"value":1
+	},
+	{
+		"year": 5,
+		"Q":2,
+		"label": "OtherCount",
+		"value":2
+	},
+	{
+		"year": 5,
+		"Q":2,
+		"label": "DisorderCount",
+		"value":2
+	},
+	{
+		"year": 5,
+		"Q":4,
+		"label":"FindingCount",
+		"value":15
+	},
+	{
+		"year": 5,
+		"Q":4,
+		"label":"DrugCount",
+		"value":1
+	},
+	{
+		"year": 5,
+		"Q":4,
+		"label": "ProcedureCount",
+		"value":3
+	},
+	{
+		"year": 5,
+		"Q":4,
+		"label":"OtherCount",
+		"value":41
+	},
+	{
+		"year": 5,
+		"Q":4,
+		"label": "DisorderCount",
+		"value":3
+	},
+	{
+		"year": 6,
+		"Q":1,
+		"label":"FindingCount",
+		"value":16
+	},
+	{
+		"year": 6,
+		"Q":1,
+		"label":"ProcedureCount",
+		"value":2
+	},
+	{
+		"year": 6,
+		"Q":1,
+		"label":"OtherCount",
+		"value":25
+	},
+	{
+		"year": 6,
+		"Q":1,
+		"label": "DisorderCount",
+		"value":1
+	},
+	{
+		"year": 8,
+		"Q":1,
+		"label":"FindingCount",
+		"value":307
+	},
+	{
+		"year": 8,
+		"Q":1,
+		"label":"DrugCount",
+		"value":229
+	},
+	{
+		"year": 8,
+		"Q":1,
+		"label": "ProcedureCount",
+		"value":118
+	},
+	{
+		"year": 8,
+		"Q":1,
+		"label": "LabCount",
+		"value":9
+	},
+	{
+		"year": 8,
+		"Q":1, 
+		"label":"OtherCount",
+		"value": 494
+	},
+	{
+		"year": 8,
+		"Q":1,
+		"label":"DisorderCount",
+		"value":284
+	},
+	{
+		"year": 9,
+		"Q":2,
+		"label":"FindingCount",
+		"value":213
+	},
+	{
+		"year": 9,
+		"Q":2,
+		"label":"DrugCount",
+		"value":92
+	},
+	{
+		"year": 9,
+		"Q":2,
+		"label": "ProcedureCount",
+		"value":82
+	},
+	{
+		"year": 9,
+		"Q":2,
+		"label":"LabCount",
+		"value":1
+	},
+	{
+		"year": 9,
+		"Q":2,
+		"label": "OtherCount",
+		"value":429
+	},
+	{
+		"year": 9,
+		"Q":2,
+		"label": "DisorderCount",
+		"value":88
+	},
+]
