@@ -3,636 +3,742 @@
 		{
 			"year": 1,
 			"Q":1,
+			"months": 1,
 			"label":"Finding", 
 			"value":5042
 		},
 		{
 			"year": 1,
 			"Q":1,
+			"months": 1,
 			"label": "Drug",
 			"value":1914
 		},
 		{
 			"year": 1,
 			"Q":1,
+			"months": 1,
 			"label": "Procedure",
 			"value":3924
 		},
 		{
 			"year": 1,
 			"Q":1,
+			"months": 1,
 			"label": "Lab",
 			"value":663
 		},
 		{
 			"year": 1,
 			"Q":1,
+			"months": 1,
 			"label": "Others",
 			"value":10688
 		},
 		{
 			"year": 1,
 			"Q":1,
+			"months": 1,
 			"label": "Disorder",
 			"value":3454
 		},
 		{
 			"year": 1,
 			"Q":2,
+			"months": 3,
 			"label":"Finding",
 			"value":1616
 		},
 		{
 			"year": 1,
 			"Q":2,
+			"months": 3,
 			"label":"Drug",
 			"value":932
 		},
 		{
 			"year": 1,
 			"Q":2,
+			"months": 3,
 			"label": "Procedure",
 			"value":895
 		},
 		{
 			"year": 1,
 			"Q":2,
+			"months": 3,
 			"label": "Lab",
 			"value":208
 		},
 		{
 			"year": 1,
 			"Q":2,
+			"months": 3,
 			"label": "Others",
 			"value":2705
 		},
 		{
 			"year": 1,
 			"Q":2,
+			"months": 3,
 			"label": "Disorder",
 			"value":965
 		},
 		{
 			"year": 1,
 			"Q":3,
+			"months": 9,
 			"label":"Finding",
 			"value":724
 		},
 		{
 			"year": 1,
 			"Q":3,
+			"months": 9,
 			"label": "Drug",
 			"value":479
 		},
 		{
 			"year": 1,
 			"Q":3,
+			"months": 9,
 			"label": "Procedure",
 			"value":470
 		},
 		{
 			"year": 1,
 			"Q":3,
+			"months": 9,
 			"label": "Lab",
 			"value":109
 		},
 		{
 			"year": 1,
 			"Q":3,
+			"months": 9,
 			"label": "Others",
 			"value":1317
 		},
 		{
 			"year": 1,
 			"Q":3,
+			"months": 9,
 			"label": "Disorder",
 			"value":477
 		},
 		{
 			"year": 1,
 			"Q":4,
+			"months": 12,
 			"label":"Finding",
 			"value":394
 		},
 		{
 			"year": 1,
 			"Q":4,
+			"months": 12,
 			"label":"Drug",
 			"value":158
 		},
 		{
 			"year": 1,
 			"Q":4,
+			"months": 12,
 			"label": "Procedure",
 			"value":239
 		},
 		{
 			"year": 1,
 			"Q":4,
+			"months": 12,
 			"label": "Lab",
 			"value":46
 		},
 		{
 			"year": 1,
 			"Q":4,
+			"months": 12,
 			"label": "Others",
 			"value":801
 		},
 		{
 			"year": 1,
 			"Q":4,
+			"months": 12,
 			"label":"Disorder",
 			"value":245
 		},
 		{
 			"year": 2,
 			"Q":1,
+			"months": 15,
 			"label":"Finding",
 			"value":261
 		},
 		{
 			"year": 2,
 			"Q":1,
+			"months": 15,
 			"label":"Drug",
 			"value":45
 		},
 		{
 			"year": 2,
 			"Q":1,
+			"months": 15,
 			"label": "Procedure",
 			"value":198
 		},
 		{
 			"year": 2,
 			"Q":1,
+			"months": 15,
 			"label": "Lab",
 			"value":9
 		},
 		{
 			"year": 2,
 			"Q":1,
+			"months": 15,
 			"label": "Others",
 			"value":494
 		},
 		{
 			"year": 2,
 			"Q":1,
+			"months": 15,
 			"label": "Disorder",
 			"value":131
 		},
 		{
 			"year": 2,
 			"Q":2,
+			"months": 18,
 			"label":"Finding",
 			"value":87
 		},
 		{
 			"year": 2,
 			"Q":2,
+			"months": 18,
 			"label": "Drug",
 			"value":36
 		},
 		{
 			"year": 2,
 			"Q":2,
+			"months": 18,
 			"label": "Procedure",
 			"value":48
 		},
 		{
 			"year": 2,
 			"Q1":2,
+			"months": 18,
 			"label": "Lab",
 			"value":4
 		},
 		{
 			"year": 2,
 			"Q":2,
+			"months": 18,
 			"label": "Others",
 			"value":233
 		},
 		{
 			"year": 2,
 			"Q":2,
+			"months": 18,
 			"label":"Disorder",
 			"value":40
 		},
 		{
 			"year": 2,
 			"Q":3,
+			"months": 21,
 			"label":"Finding",
 			"value":8
 		},
 		{
 			"year": 2,
 			"Q":3,
+			"months": 21,
 			"label": "Drug",
 			"value":1
 		},
 		{
 			"year": 2,
 			"Q":3,
+			"months": 21,
 			"label": "Procedure",
 			"value":9
 		},
 		{
 			"year": 2,
 			"Q":3,
+			"months": 21,
 			"label": "Others",
 			"value":32
 		},
 		{
 			"year": 2,
 			"Q":3,
+			"months": 21,
 			"label": "Disorder",
 			"value":3
 		},
 		{
 			"year": 2,
 			"Q":4,
+			"months": 24,
 			"label":"Finding",
 			"value":5
 		},
 		{
 			"year": 2,
 			"Q":4,
+			"months": 24,
 			"label": "Drug",
 			"value":2
 		},	
 		{
 			"year": 2,
 			"Q":4,
+			"months": 24,
 			"label": "Others",
 			"value":9
 		},
 		{
 			"year": 2,
 			"Q":4,
+			"months": 24,
 			"label":"Disorder",
 			"value":1
 		},
 		{
 			"year": 3,
 			"Q":1,
+			"months": 27,
 			"label":"Finding",
 			"value":14
 		},
 		{
 			"year": 3,
 			"Q":1,
+			"months": 27,
 			"label": "Procedure",
 			"value":9
 		},
 		{
 			"year": 3,
 			"Q":1,
+			"months": 27,
 			"label": "Others",
 			"value":21
 		},
 		{
 			"year": 3,
 			"Q":2,
+			"months": 30,
 			"label":"Finding",
 			"value":10
 		},
 		{
 			"year": 3,
 			"Q":2,
+			"months": 30,
 			"label": "Drug",
 			"value":1
 		},
 		{
 			"year": 3,
 			"Q":2,
+			"months": 30,
 			"label":"Procedure",
 			"value":5
 		},
 		{
 			"year": 3,
 			"Q":2,
+			"months": 30,
 			"label":"Others",
 			"value":9
 		},
 		{
 			"year": 3,
 			"Q":2,
+			"months": 30,
 			"label": "Disorder",
 			"value":3
 		},
 		{
 			"year": 3,
 			"Q":3,
+			"months": 33,
 			"label":"Finding",
 			"value":2
 		},
 		{
 			"year": 3,
 			"Q":3,
+			"months": 33,
 			"label": "Others",
 			"value":4
 		},
 		{
 			"year": 3,
 			"Q":4,
+			"months": 36,
 			"label": "Drug",
 			"value":1
 		},
 		{
 			"year": 3,
 			"Q":4,
+			"months": 36,
 			"label":"Procedure",
 			"value":3
 		},
 		{
 			"year": 3,
 			"Q":4,
+			"months": 36,
 			"label": "Others",
 			"value":5
 		},
 		{
 			"year": 3,
 			"Q":4,
+			"months": 36,
 			"label": "Disorder",
 			"value":4
 		},
 		{
 			"year": 4,
 			"Q":1,
+			"months": 39,
 			"label": "Finding",
 			"value":24
 		},
 		{
 			"year": 4,
 			"Q":1,
+			"months": 39,
 			"label": "Procedure",
 			"value":3
 		},
 		{
 			"year": 4,
 			"Q":1,
+			"months": 39,
 			"label": "Others",
 			"value":19
 		},
 		{
 			"year": 4,
 			"Q":1,
+			"months": 39,
 			"label": "Disorder",
 			"value":2
 		},
 		{
 			"year": 4,
 			"Q":2,
+			"months": 42,
 			"label":"Finding",
 			"value":1
 		},
 		{
 			"year": 4,
 			"Q":2,
+			"months": 42,
 			"label": "Drug",
 			"value":2
 		},
 		{
 			"year": 4,
 			"Q":2,
+			"months": 42,
 			"label": "Others",
 			"value":37
 		},
 		{
 			"year": 4,
 			"Q":2,
+			"months": 42,
 			"label": "Disorder",
 			"value":2
 		},
 		{
 			"year": 4,
 			"Q":3,
+			"months": 45,
 			"label":"Finding",
 			"value":32
 		},
 		{
 			"year": 4,
 			"Q":3,
+			"months": 45,
 			"label": "Drug",
 			"value":8
 		},
 		{
 			"year": 4,
 			"Q":3,
+			"months": 45,
 			"label":"Procedure",
 			"value":17
 		},
 		{
 			"year": 4,
 			"Q":3,
+			"months": 45,
 			"label": "Lab",
 			"value":1
 		},
 		{
 			"year": 4,
 			"Q":3,
+			"months": 45,
 			"label": "Others",
 			"value":48
 		},
 		{
 			"year": 4,
 			"Q":3,
+			"months": 45,
 			"label": "Disorder",
 			"value":17
 		},
 		{
 			"year": 4,
 			"Q":4,
+			"months": 48,
 			"label":"Finding",
 			"value":11
 		},
 		{
 			"year": 4,
 			"Q":4,
+			"months": 48,
 			"label": "Drug",
 			"value":2
 		},
 		{
 			"year": 4,
 			"Q":4,
+			"months": 48,
 			"label": "Procedure",
 			"value":1
 		},
 		{
 			"year": 4,
 			"Q":4,
+			"months": 48,
 			"label": "Others",
 			"value":38
 		},
 		{
 			"year": 4,
 			"Q":4,
+			"months": 48,
 			"label": "Disorder",
 			"value":7
 		},
 		{
 			"year": 5,
 			"Q":1,
+			"months": 51,
 			"label":"Finding",
 			"value":10
 		},
 		{
 			"year": 5,
 			"Q":1,
+			"months": 51,
 			"label":"Procedure",
 			"value":1
 		},
 		{
 			"year": 5,
 			"Q":1,
+			"months": 51,
 			"label":"Others",
 			"value":12
 		},
 	 	{
 			"year": 5,
 			"Q":2,
+			"months": 54,
 			"label": "Finding",
 			"value":1
 		},
 		{
 			"year": 5,
 			"Q":2,
+			"months": 54,
 			"label": "Drug",
 			"value":1
 		},
 		{
 			"year": 5,
 			"Q":2,
+			"months": 54,
 			"label": "Others",
 			"value":2
 		},
 		{
 			"year": 5,
 			"Q":2,
+			"months": 54,
 			"label": "Disorder",
 			"value":2
 		},
 		{
 			"year": 5,
 			"Q":4,
+			"months": 60,
 			"label":"Finding",
 			"value":15
 		},
 		{
 			"year": 5,
 			"Q":4,
+			"months": 60,
 			"label":"Drug",
 			"value":1
 		},
 		{
 			"year": 5,
 			"Q":4,
+			"months": 60,
 			"label": "Procedure",
 			"value":3
 		},
 		{
 			"year": 5,
 			"Q":4,
+			"months": 60,
 			"label":"Others",
 			"value":41
 		},
 		{
 			"year": 5,
 			"Q":4,
+			"months": 60,
 			"label": "Disorder",
 			"value":3
 		},
 		{
 			"year": 6,
 			"Q":1,
+			"months": 63,
 			"label":"Finding",
 			"value":16
 		},
 		{
 			"year": 6,
 			"Q":1,
+			"months": 63,
 			"label":"Procedure",
 			"value":2
 		},
 		{
 			"year": 6,
 			"Q":1,
+			"months": 63,
 			"label":"Others",
 			"value":25
 		},
 		{
 			"year": 6,
 			"Q":1,
+			"months": 63,
 			"label": "Disorder",
 			"value":1
 		},
 		{
 			"year": 8,
 			"Q":1,
+			"months": 87,
 			"label":"Finding",
 			"value":307
 		},
 		{
 			"year": 8,
 			"Q":1,
+			"months": 87,
 			"label":"Drug",
 			"value":229
 		},
 		{
 			"year": 8,
 			"Q":1,
+			"months": 87,
 			"label": "Procedure",
 			"value":118
 		},
 		{
 			"year": 8,
 			"Q":1,
+			"months": 87,
 			"label": "Lab",
 			"value":9
 		},
 		{
 			"year": 8,
 			"Q":1, 
+			"months": 87,
 			"label":"Others",
 			"value": 494
 		},
 		{
 			"year": 8,
 			"Q":1,
+			"months": 87,
 			"label":"Disorder",
 			"value":284
 		},
 		{
 			"year": 9,
 			"Q":2,
+			"months": 102,
 			"label":"Finding",
 			"value":213
 		},
 		{
 			"year": 9,
 			"Q":2,
+			"months": 102,
 			"label":"Drug",
 			"value":92
 		},
 		{
 			"year": 9,
 			"Q":2,
+			"months": 102,
 			"label": "Procedure",
 			"value":82
 		},
 		{
 			"year": 9,
 			"Q":2,
+			"months": 102,
 			"label":"Lab",
 			"value":1
 		},
 		{
 			"year": 9,
 			"Q":2,
+			"months": 102,
 			"label": "Others",
 			"value":429
 		},
 		{
 			"year": 9,
 			"Q":2,
+			"months": 102,
 			"label": "Disorder",
 			"value":88
 		}
