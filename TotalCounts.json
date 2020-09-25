@@ -1,0 +1,32 @@
+[null,
+    {"Q1":{"FindingCount":5042,"DrugCount":1914,"ProcedureCount":3924,"LabCount":663,"OtherCount":10688,"DisorderCount":3454},
+    "Q2":{"FindingCount":1616,"DrugCount":932,"ProcedureCount":895,"LabCount":208,"OtherCount":2705,"DisorderCount":965},
+    "Q3":{"FindingCount":724,"DrugCount":479,"ProcedureCount":470,"LabCount":109,"OtherCount":1317,"DisorderCount":477},
+    "Q4":{"FindingCount":394,"DrugCount":158,"ProcedureCount":239,"LabCount":46,"OtherCount":801,"DisorderCount":245}},
+    
+    {"Q1":{"FindingCount":261,"DrugCount":45,"ProcedureCount":198,"LabCount":9,"OtherCount":494,"DisorderCount":131},
+    "Q2":{"FindingCount":87,"DrugCount":36,"ProcedureCount":48,"LabCount":4,"OtherCount":233,"DisorderCount":40},
+    "Q3":{"FindingCount":8,"DrugCount":1,"ProcedureCount":9,"LabCount":0,"OtherCount":32,"DisorderCount":3},
+    "Q4":{"FindingCount":5,"DrugCount":2,"ProcedureCount":0,"LabCount":0,"OtherCount":9,"DisorderCount":1}},
+    
+    {"Q1":{"FindingCount":14,"DrugCount":0,"ProcedureCount":9,"LabCount":0,"OtherCount":21,"DisorderCount":0},
+    "Q2":{"FindingCount":10,"DrugCount":1,"ProcedureCount":5,"LabCount":0,"OtherCount":9,"DisorderCount":3},
+    "Q4":{"FindingCount":0,"DrugCount":1,"ProcedureCount":3,"LabCount":0,"OtherCount":5,"DisorderCount":4},
+    "Q3":{"FindingCount":2,"DrugCount":0,"ProcedureCount":0,"LabCount":0,"OtherCount":4,"DisorderCount":0}},
+    
+    {"Q3":{"FindingCount":32,"DrugCount":8,"ProcedureCount":17,"LabCount":1,"OtherCount":48,"DisorderCount":17},
+    "Q4":{"FindingCount":11,"DrugCount":2,"ProcedureCount":1,"LabCount":0,"OtherCount":38,"DisorderCount":7},
+    "Q1":{"FindingCount":24,"DrugCount":0,"ProcedureCount":3,"LabCount":0,"OtherCount":19,"DisorderCount":2},
+    "Q2":{"FindingCount":1,"DrugCount":2,"ProcedureCount":0,"LabCount":0,"OtherCount":37,"DisorderCount":2}},
+    
+    {"Q1":{"FindingCount":10,"DrugCount":0,"ProcedureCount":1,"LabCount":0,"OtherCount":12,"DisorderCount":0},
+    "Q2":{"FindingCount":1,"DrugCount":1,"ProcedureCount":0,"LabCount":0,"OtherCount":2,"DisorderCount":2},
+    "Q4":{"FindingCount":15,"DrugCount":1,"ProcedureCount":3,"LabCount":0,"OtherCount":41,"DisorderCount":3}},
+    
+    {"Q1":{"FindingCount":16,"DrugCount":0,"ProcedureCount":2,"LabCount":0,"OtherCount":25,"DisorderCount":1}},
+    
+    null,
+    
+    {"Q1":{"FindingCount":307,"DrugCount":229,"ProcedureCount":118,"LabCount":9,"OtherCount":494,"DisorderCount":284}},
+    
+    {"Q2":{"FindingCount":213,"DrugCount":92,"ProcedureCount":82,"LabCount":1,"OtherCount":429,"DisorderCount":88}}]
