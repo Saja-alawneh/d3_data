@@ -248,6 +248,12 @@ for(const [key, value] of Object.entries(CountsPerYearAndQuarter)) {
   //Object.keys(CountsPerYearAndQuarter).forEach(key => { console.log(key)})
   //Object.keys(CountsPerYearAndQuarter).forEach(key => { console.log(CountsPerYearAndQuarter[key].Q1.FindingCount)})
 
+
+
+
+
+CountsPerYearAndQuarter = CountsPerYearAndQuarter.filter(function(x) { return x !== null || x !== undefined }); 
+
 var obj=JSON.stringify(CountsPerYearAndQuarter)
 var keyYear= Object.keys(CountsPerYearAndQuarter)
 //console.log(CountsPerYearAndQuarter.length);
@@ -255,22 +261,12 @@ console.log(Object.keys(CountsPerYearAndQuarter[1]))
 year= Object.keys(CountsPerYearAndQuarter)
 console.log(year)
 
-
-
-CountsPerYearAndQuarter = CountsPerYearAndQuarter.filter(function(x) { return x !== null || x !== undefined }); 
-
-for(i=0; i<CountsPerYearAndQuarter.length; i++)
-  if (CountsPerYearAndQuarter[i] != null)
-    {
-        console.log(CountsPerYearAndQuarter[i].Q1.DisorderCounts)
-    }
-
 //console.log( CountsPerYearAndQuarter);
 //Object.keys(CountsPerYearAndQuarter).forEach(k => (!CountsPerYearAndQuarter[k] && CountsPerYearAndQuarter[k] !== undefined) && delete CountsPerYearAndQuarter[k]);
 //console.log(obj)
 
 //Object.keys(CountsPerYearAndQuarter).forEach(key => { console.log(CountsPerYearAndQuarter[key].Q2.OtherCount)})
-fs.writeFile("TotalCounts.json", obj, function(err, result) {
+fs.writeFile("TotalCounts12.json", obj, function(err, result) {
     if(err) console.log('error', err);
 });
 
