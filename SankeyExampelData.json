@@ -6,7 +6,7 @@
 	{"source":"Medical Decision-making","target":"Treatment","value":"93"},
 	{"source":"Pre-diagnostic","target":"Follow-up","value":"3"},
 	{"source":"Pre-diagnostic","target":"Medical Decision-making","value":"69"},
-	{"source":"Treatment","target":"Follow-up","value":"2"},
+	{"source":"Treatment","target":"Follow-up","value":"1"},
 
 	{"source":"Diagnostic0","target":"Pre-diagnostic1","value":"7"},
 	{"source":"Diagnostic1","target":"Medical Decision-making2","value":"1"},
