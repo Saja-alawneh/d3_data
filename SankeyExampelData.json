@@ -2,6 +2,11 @@
 	"links": [
 	{"source":"Diagnostic","target":"Medical Decision-making","value":"10"},
 	{"source":"Diagnostic","target":"Treatment","value":"2"},
+	{"source":"Medical Decision-making","target":"Follow-up","value":"9"},
+	{"source":"Medical Decision-making","target":"Treatment","value":"93"},
+	{"source":"Pre-diagnostic","target":"Follow-up","value":"3"},
+	{"source":"Pre-diagnostic","target":"Medical Decision-making","value":"69"},
+	{"source":"Treatment","target":"Follow-up","value":"2"},
 
 	{"source":"Diagnostic0","target":"Pre-diagnostic1","value":"7"},
 	{"source":"Diagnostic1","target":"Medical Decision-making2","value":"1"},
@@ -9,27 +14,31 @@
 	{"source":"Diagnostic1","target":"Treatment2","value":"2"},
 	{"source":"Diagnostic12","target":"Pre-diagnostic13","value":"1"},
 
-	{"source":"Medical Decision-making","target":"Follow-up","value":"9"},
-	{"source":"Medical Decision-making","target":"Treatment","value":"93"},
-	{"source":"Pre-diagnostic","target":"Follow-up","value":"3"},
-	{"source":"Pre-diagnostic","target":"Medical Decision-making","value":"69"},
-	{"source":"Treatment","target":"Follow-up","value":"2"}
+	{"source":"Diagnostic15","target":"Treatment16","value":"1"},
+	{"source":"Diagnostic2","target":"Pre-diagnostic3","value":"4"},
+	{"source":"Diagnostic2","target":"Treatment3","value":"1"}
+
+	
 	
 	],
 	"nodes": [
 	{"name": "Pre-diagnostic"},
 	{"name": "Pre-diagnostic1"},
 	{"name": "Pre-diagnostic2"},
+	{"name": "Pre-diagnostic3"},
 	{"name": "Pre-diagnostic13"},
     {"name": "Diagnostic"},
     {"name": "Diagnostic0"},
     {"name": "Diagnostic1"},
+    {"name": "Diagnostic2"},
     {"name": "Diagnostic12"},
-
+    {"name": "Diagnostic15"},
     {"name": "Follow-up"},
     {"name": "Medical Decision-making"},
     {"name": "Medical Decision-making2"},
     {"name": "Treatment2"},
+    {"name": "Treatment3"},
+    {"name": "Treatment16"},
     {"name": "Treatment"}
 
 ]}
