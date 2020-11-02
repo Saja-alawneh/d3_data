@@ -1,0 +1,22 @@
+{
+	
+	"links": [
+	{"source":"Pre-diagnostic","target":"Medical Decision-making","value":"69"},
+	{"source":"Diagnostic","target":"Medical Decision-making","value":"10"},
+	{"source":"Diagnostic","target":"Treatment","value":"2"},
+	{"source":"Pre-diagnostic","target":"Follow-up","value":"3"},
+	{"source":"Medical Decision-making","target":"Treatment","value":"93"},
+	{"source":"Medical Decision-making","target":"Follow-up","value":"9"},
+	{"source":"Treatment","target":"Follow-up","value":"2"}
+	
+	],
+
+	"nodes": [
+	{"name": "Pre-diagnostic"},
+    {"name": "Diagnostic"},
+    {"name": "Medical Decision-making"},
+    {"name": "Treatment"},
+    {"name": "Follow-up"}
+    
+],
+}
