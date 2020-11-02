@@ -6,6 +6,8 @@
 	{"source":"Diagnostic0","target":"Pre-diagnostic1","value":"7"},
 	{"source":"Diagnostic1","target":"Medical Decision-making2","value":"1"},
 	{"source":"Diagnostic1","target":"Pre-diagnostic2","value":"34"},
+	{"source":"Diagnostic1","target":"Treatment2","value":"2"},
+	{"source":"Diagnostic12","target":"Pre-diagnostic13","value":"1"},
 
 	{"source":"Medical Decision-making","target":"Follow-up","value":"9"},
 	{"source":"Medical Decision-making","target":"Treatment","value":"93"},
@@ -18,13 +20,16 @@
 	{"name": "Pre-diagnostic"},
 	{"name": "Pre-diagnostic1"},
 	{"name": "Pre-diagnostic2"},
+	{"name": "Pre-diagnostic13"},
     {"name": "Diagnostic"},
     {"name": "Diagnostic0"},
     {"name": "Diagnostic1"},
+    {"name": "Diagnostic12"},
 
     {"name": "Follow-up"},
     {"name": "Medical Decision-making"},
     {"name": "Medical Decision-making2"},
+    {"name": "Treatment2"},
     {"name": "Treatment"}
 
 ]}
