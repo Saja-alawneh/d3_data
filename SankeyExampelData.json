@@ -17,6 +17,9 @@
 	{"source":"Diagnostic2","target":"Pre-diagnostic3","value":"4"},
 	{"source":"Diagnostic2","target":"Treatment3","value":"1"}
 
+	{"source":"Diagnostic3","target":"Medical Decision-making4","value":"1"},
+	
+
 	
 
 	
