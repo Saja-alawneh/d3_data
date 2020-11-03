@@ -19,10 +19,18 @@
 	{"source":"Diagnostic3","target":"Medical Decision-making4","value":"1"},
 	{"source":"Diagnostic3","target":"Pre-diagnostic4","value":"16"},
 	{"source":"Diagnostic3","target":"Treatment4","value":"1"},
-
 	{"source":"Diagnostic4","target":"Follow-up5","value":"1"},
 	{"source":"Diagnostic4","target":"Pre-diagnostic5","value":"3"},
-	{"source":"Diagnostic4","target":"Treatment5","value":"5"}
+	{"source":"Diagnostic4","target":"Treatment5","value":"5"},
+
+	{"source":"Diagnostic5","target":"Pre-diagnostic6","value":"6"},
+	{"source":"Diagnostic5","target":"Treatment6","value":"3"},
+	{"source":"Diagnostic6","target":"Follow-up7","value":"1"},
+	{"source":"Diagnostic6","target":"Medical Decision-making7","value":"1"},
+	{"source":"Diagnostic6","target":"Treatment7","value":"5"},
+	{"source":"Diagnostic7","target":"Follow-up8","value":"1"},
+	{"source":"Diagnostic7","target":"Treatment8","value":"4"},
+	{"source":"Diagnostic8","target":"Treatment9","value":"2"},
 
 	
 
@@ -36,6 +44,7 @@
 	{"name": "Pre-diagnostic3"},
 	{"name": "Pre-diagnostic4"},
 	{"name": "Pre-diagnostic5"},
+	{"name": "Pre-diagnostic6"},
 	{"name": "Pre-diagnostic13"},
     {"name": "Diagnostic"},
     {"name": "Diagnostic0"},
@@ -43,17 +52,28 @@
     {"name": "Diagnostic2"},
     {"name": "Diagnostic3"},
     {"name": "Diagnostic4"},
+    {"name": "Diagnostic5"},
+    {"name": "Diagnostic6"},
+    {"name": "Diagnostic7"},
+    {"name": "Diagnostic8"},
     {"name": "Diagnostic12"},
     {"name": "Diagnostic15"},
     {"name": "Follow-up"},
+    {"name": "Follow-up7"},
+    {"name": "Follow-up8"},
     {"name": "Follow-up5"},
     {"name": "Medical Decision-making"},
     {"name": "Medical Decision-making2"},
     {"name": "Medical Decision-making4"},
+    {"name": "Medical Decision-making7"},
     {"name": "Treatment2"},
     {"name": "Treatment3"},
     {"name": "Treatment4"},
     {"name": "Treatment5"},
+    {"name": "Treatment6"},
+    {"name": "Treatment7"},
+    {"name": "Treatment8"},
+    {"name": "Treatment9"},
     {"name": "Treatment16"},
     {"name": "Treatment"}
 
