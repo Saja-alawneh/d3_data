@@ -16,10 +16,13 @@
 	{"source":"Diagnostic15","target":"Treatment16","value":"1"},
 	{"source":"Diagnostic2","target":"Pre-diagnostic3","value":"4"},
 	{"source":"Diagnostic2","target":"Treatment3","value":"1"},
-
 	{"source":"Diagnostic3","target":"Medical Decision-making4","value":"1"},
 	{"source":"Diagnostic3","target":"Pre-diagnostic4","value":"16"},
-	{"source":"Diagnostic3","target":"Treatment4","value":"1"}
+	{"source":"Diagnostic3","target":"Treatment4","value":"1"},
+
+	{"source":"Diagnostic4","target":"Follow-up5","value":"1"},
+	{"source":"Diagnostic4","target":"Pre-diagnostic5","value":"3"},
+	{"source":"Diagnostic4","target":"Treatment5","value":"5"}
 
 	
 
@@ -32,21 +35,25 @@
 	{"name": "Pre-diagnostic2"},
 	{"name": "Pre-diagnostic3"},
 	{"name": "Pre-diagnostic4"},
+	{"name": "Pre-diagnostic5"},
 	{"name": "Pre-diagnostic13"},
     {"name": "Diagnostic"},
     {"name": "Diagnostic0"},
     {"name": "Diagnostic1"},
     {"name": "Diagnostic2"},
     {"name": "Diagnostic3"},
+    {"name": "Diagnostic4"},
     {"name": "Diagnostic12"},
     {"name": "Diagnostic15"},
     {"name": "Follow-up"},
+    {"name": "Follow-up5"},
     {"name": "Medical Decision-making"},
     {"name": "Medical Decision-making2"},
     {"name": "Medical Decision-making4"},
     {"name": "Treatment2"},
     {"name": "Treatment3"},
     {"name": "Treatment4"},
+    {"name": "Treatment5"},
     {"name": "Treatment16"},
     {"name": "Treatment"}
 
