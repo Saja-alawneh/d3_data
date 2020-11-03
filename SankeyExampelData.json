@@ -21,11 +21,7 @@
 	{"source":"Diagnostic3","target":"Treatment4","value":"1"},
 	{"source":"Diagnostic4","target":"Follow-up5","value":"1"},
 	{"source":"Diagnostic4","target":"Pre-diagnostic5","value":"3"},
-	{"source":"Diagnostic4","target":"Treatment5","value":"5"},
-
-	
-	
-
+	{"source":"Diagnostic4","target":"Treatment5","value":"5"}
 	
 	
 	],
