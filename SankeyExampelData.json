@@ -30,7 +30,7 @@
 	{"source":"Diagnostic6","target":"Treatment7","value":"5"},
 	{"source":"Diagnostic7","target":"Follow-up8","value":"1"},
 	{"source":"Diagnostic7","target":"Treatment8","value":"4"},
-	{"source":"Diagnostic8","target":"Treatment9","value":"2"},
+	{"source":"Diagnostic8","target":"Treatment9","value":"2"}
 
 	
 
