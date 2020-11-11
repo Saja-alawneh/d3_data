@@ -1,5 +1,5 @@
 {
-	"nodes": [
+"nodes": [
 {"name":"Pre-diagnostic 0"},
 {"name":"Pre-diagnostic 1"},
 {"name":"Pre-diagnostic 2"},
@@ -63,7 +63,7 @@
 {"name":"Medical Decision-making 10"},
 {"name":"Medical Decision-making 13"},
 {"name":"Medical Decision-making 14"}
-] ,
+],
 "links": [
 {"source":15,"target":1,"value":7},
 {"source":16,"target":52,"value":1},
